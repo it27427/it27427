@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m <a href="https://github.com/it27427">Tushar</a>
 - 👀 I’m interested in ...
-- 🌱 I’m currently working on Vue.js, Nuxt.js React.js, Next.js, Typescript and PHP
+- 🌱 I’m currently working on Vue.js, Nuxt.js Typescript, Node.js and Express.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <strong><a href="mailto:istiak.tushar.it@gmail.com">istiak.tushar.it@gmail.com</a></strong>
 
